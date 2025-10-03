@@ -1,8 +1,8 @@
 # Cientista de dados geospaciais
+- Google Developer Expert (GDE) - Categoria Earth Engine: [https://developers.google.com/profile/u/apnicolau](https://developers.google.com/profile/u/apnicolau)
 
 #### Habilidades técnicas
 - Software de GIS e sensoriamento remoto (Google Earth Engine, Google Colab, QGIS, ArcGIS, Jupyter Notebooks, SNAP, ENVI)
-- Google Developer Expert (GDE) - Categoria Earth Engine: https://developers.google.com/profile/u/apnicolau
 - Linguagens de programação e marcação (JavaScript para GEE, Python, LaTeX, Markdown, reStructured Text)
 - Sensoriamento remoto e modelagem baseados em nuvem
 - Machine Learning
@@ -10,10 +10,10 @@
 ## Educação
 - M.S., Earth System Science | The University of Alabama in Huntsville, UAH (_2019_)								       		
 - Especialização, Gestão Ambiental	| Universidade Federal do Rio de Janeiro, UFRJ (_2018_)	 			        		
-- B.S., Engenharia de Recursos Hídricos e do Meio Ambiente | Universidade Federal Fluminense (_2016_)
+- B.S., Engenharia de Recursos Hídricos e do Meio Ambiente | Universidade Federal Fluminense, UFF (_2016_)
 
 ## Experiência Profissional
-**Senior Geospatial Scientist and Project Manager (Remote / Contract) - Spatial Informatics Group, LLC (_2024 - Present_)**
+**Senior Geospatial Scientist and Project Manager (Remote / Contract) - Spatial Informatics Group, LLC (_2024 - Presente_)**
 - Coordenadora do portfolio de serviços geospaciais da América do Sul
 - Suporte técnico para o domain de Mapeamento Ambiental
 - Coordenadora técnica do SERVIR Global Collaborative
@@ -41,7 +41,7 @@ Mapeamento de culturas agrícolas no Camboja.
 - Foco em processos geoespaciais operacionais para estimativa de dados de atividade, com links identificados para ferramentas de apoio.
 - Levantamento e organização de recursos já existentes de suporte a sistemas de MRV
 
-**Associado Científico Regional/Pesquisador Associado II para a Amazônia e o Mekong - NASA SERVIR – Science Coordination Office, UAHuntsville (_2020 - 2021_)**
+**Associada Científico Regional/Pesquisadora Associada II para a Amazônia e o Mekong - NASA SERVIR – Science Coordination Office, UAHuntsville (_2020 - 2021_)**
 - Minha principal função era apoiar os centros SERVIR (Amazônia e Mekong) em diversas áreas científicas e técnicas, bem como na coordenação de serviços e capacitação.
 
 **Assistente de pesquisa de pós-graduação - NASA SERVIR – Science Coordination Office, UAHuntsville (_2018 - 2019_)**
@@ -64,53 +64,53 @@ Mapeamento de culturas agrícolas no Camboja.
 
 ## Projetos
 ### SERVIR Global Collaborative
-- https://servirglobal.net
+- [https://servirglobal.net](https://servirglobal.net)
 
 ### Cloud-Based Remote Sensing with Google Earth Engine: Fundamentals and Applications
-- https://eefabook.org
+- [https://eefabook.org](https://eefabook.org)
 
 ### SERVIR-Amazonia
 #### RAMI
-- https://rami.servirglobal.net
+- [https://rami.servirglobal.net](https://rami.servirglobal.net)
 
 #### Colombia Fire Forecasting
-- https://github.com/SERVIR-Amazonia/fire-forecasting-colombia
+- [https://github.com/SERVIR-Amazonia/fire-forecasting-colombia](https://github.com/SERVIR-Amazonia/fire-forecasting-colombia)
 
 #### TerraBio
-- https://alliancebioversityciat.org/pt-br/stories/os-primeiros-resultados-terrabio-mostram-impacto-biodiversidade-negocios
+- [https://alliancebioversityciat.org/pt-br/stories/os-primeiros-resultados-terrabio-mostram-impacto-biodiversidade-negocios](https://alliancebioversityciat.org/pt-br/stories/os-primeiros-resultados-terrabio-mostram-impacto-biodiversidade-negocios)
 
 #### Caribbean Capacity Building Workshops
-- https://servir-amazonia.github.io/republica-dominicana-taller
-- https://servir-amazonia.github.io/colombia-training
-- https://servir-amazonia.github.io/barbados-training
-- https://servir-amazonia.github.io/trinidad-and-tobago-training
-- https://servir-amazonia.github.io/guyana-training/
-- https://servir-amazonia.github.io/suriname-training/
+- [https://servir-amazonia.github.io/republica-dominicana-taller](https://servir-amazonia.github.io/republica-dominicana-taller)
+- [https://servir-amazonia.github.io/colombia-training](https://servir-amazonia.github.io/colombia-training)
+- [https://servir-amazonia.github.io/barbados-training](https://servir-amazonia.github.io/barbados-training)
+- [https://servir-amazonia.github.io/trinidad-and-tobago-training](https://servir-amazonia.github.io/trinidad-and-tobago-training)
+- [https://servir-amazonia.github.io/guyana-training/](https://servir-amazonia.github.io/guyana-training/)
+- [https://servir-amazonia.github.io/suriname-training/](https://servir-amazonia.github.io/suriname-training/)
 
 #### Mangrove monitoring in Guyana (GuyMIS)
-- https://guy-mangroves.servirglobal.net/
-- https://agrilinks.org/post/ensuring-resilience-people-and-ecosystems-guyana-advances-mangrove-monitoring-satellite
+- [https://guy-mangroves.servirglobal.net/](https://guy-mangroves.servirglobal.net/)
+- [https://agrilinks.org/post/ensuring-resilience-people-and-ecosystems-guyana-advances-mangrove-monitoring-satellite](https://agrilinks.org/post/ensuring-resilience-people-and-ecosystems-guyana-advances-mangrove-monitoring-satellite)
 
 #### Mangrove monitoring in Ecuador (MANGLEE)
-- https://github.com/SERVIR-Amazonia/MANGLEE
+- [https://github.com/SERVIR-Amazonia/MANGLEE](https://github.com/SERVIR-Amazonia/MANGLEE)
 
 #### CoMiMo
-https://comimo.sig-gis.com
+[https://comimo.sig-gis.com](https://comimo.sig-gis.com)
 
 #### Imbabura LULC mapping
-- https://servir-amazonia.earthengine.app/view/cob-imbabura
+- [https://servir-amazonia.earthengine.app/view/cob-imbabura](https://servir-amazonia.earthengine.app/view/cob-imbabura)
 
 ### SERVIR-Southeast Asia
 #### Cambodia crop mapping
-- https://sig-gis.com/cambodia-crops-remote-sensing/
-- https://sig-gis.com/cambodia-neural-network-crop/
-- https://training.sig-gis.com/CambodiaCropmapping/index.html
+- [https://sig-gis.com/cambodia-crops-remote-sensing/](https://sig-gis.com/cambodia-crops-remote-sensing/)
+- [https://sig-gis.com/cambodia-neural-network-crop/](https://sig-gis.com/cambodia-neural-network-crop/)
+- [https://training.sig-gis.com/CambodiaCropmapping/index.html](https://training.sig-gis.com/CambodiaCropmapping/index.html)
 
 #### Coconut suitability mapping in Thailand
-- https://greeninvestasia.com/usaid-supports-u-s-organic-water-company-harmless-harvests-climate-smart-coconut-production/
+- [https://greeninvestasia.com/usaid-supports-u-s-organic-water-company-harmless-harvests-climate-smart-coconut-production/](https://greeninvestasia.com/usaid-supports-u-s-organic-water-company-harmless-harvests-climate-smart-coconut-production/)
 
 #### Air Quality app
-- https://www.uah.edu/news/items/uah-helps-develop-air-quality-monitoring-application-for-thailand
+- [https://www.uah.edu/news/items/uah-helps-develop-air-quality-monitoring-application-for-thailand](https://www.uah.edu/news/items/uah-helps-develop-air-quality-monitoring-application-for-thailand)
 
 ### OpenMRV
 
